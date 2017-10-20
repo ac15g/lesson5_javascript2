@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 20, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Alita Clark)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We have to create a functional tax rate calculator for all the potential ways taxes could be filed.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ac15g.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The getElementById allows you to find the element in the code and use it.)
+2. (Conditional statements will only execute one order. The rest of the code will be ignored.)
+3. (Loops and conditional statements will let you reuse code instead of having to type new code every time you want to complete a function.)
 
